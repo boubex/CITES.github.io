@@ -1,15 +1,15 @@
 # Site navigation links
 
-- title: About
+- title: About us
   url: /about/
 
-- title: Articles
+- title: News
   url: /articles/
 
 - title: Reviews
   url: /blog/
 
-- title: Bill Board
+- title: Review Board
   url: /theme-setup/
 
 - title: Search
